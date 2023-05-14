@@ -1,7 +1,7 @@
-# School-API (Projeto Escolar)
-> Progamação Orientado a Serviços.
+# School-api
 
-A proposta é o desenvolvimento de sistemas que se comunicam e interagem entre si e formem um ambiente de autenticação, sistema escolar e biblioteca. A escola futuramente contará com um CRUD para algumas entidades e se comunicará com o restante das aplicações.
+
+A proposta é a criação de sistemas que se comunicam entre si criando sistemas de autenticação, sistema escolar e biblioteca.
 
 ## Instruções
 
@@ -15,9 +15,9 @@ E para a documentação:
 - [Laravel](https://laravel.com/docs/10.x).
 
 ## Inicializar
-Pronto, agora estamos prontos para inicializar o projeto. Utilize o seguinte comando dentro da pasta `School-API` para iniciar a aplicação: `composer update` e aguarde a instalação das dependências, após isso utilize: `php artisan serve --port=<port>` onde o `<port>` deve ser substituido pela a porta desejada.
+Para iniciar o programa utilize o comando dentro da pasta `School-API`: `composer update` e aguarde a instalação das dependências: `php artisan serve --port=<port>`
 
 ## Rotas
 
-`/`=> Fornece todos os padrões de URL dos recursos;<br/>
-`/hello`=> Url de teste, devolve Hello, World!
+`/` Fornece todos os padrões de URL dos recursos;<br/>
+`/hello` Fornece a URL de teste Hello;
