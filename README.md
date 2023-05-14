@@ -15,7 +15,7 @@ E para a documentação:
 - [Laravel](https://laravel.com/docs/10.x).
 
 ## Inicializar
-Para iniciar o programa utilize o comando dentro da pasta `School-API`: `composer update` e aguarde a instalação das dependências: `php artisan serve --port=<port>`
+Para iniciar o programa utilize o comando dentro da pasta `school-api`: `composer update` e aguarde a instalação das dependências: `php artisan serve --port=<port>`
 
 ## Rotas
 
